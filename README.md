@@ -51,7 +51,7 @@ Start of a small project where I will be writing a simple LUA script to edit mem
 
 ### Built With
 
-* [Cherax Lua Engine]([https://discord.js.org/#/](https://docs.cherax.vip/lua-documentation/api-reference))
+* [Cherax Lua Engine]([https://docs.cherax.vip/lua-documentation/api-reference]())
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -61,7 +61,7 @@ Start of a small project where I will be writing a simple LUA script to edit mem
 
 Discord - iiferedon#1337
 
-Project Link: [https://github.com/iiferedon/discord-webhook-omegle-ip-info-geolocation](https://github.com/iiferedon/discord-webhook-omegle-ip-info-geolocation)
+Project Link: [https://github.com/iiferedon/Edit-GTAV-Memory-in-LUA](https://github.com/iiferedon/Edit-GTAV-Memory-in-LUA)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
