@@ -131,4 +131,4 @@ Project Link: [https://github.com/iiferedon/discord-webhook-omegle-ip-info-geolo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/MemoryDebug.png
-[product-example]: images/example.png
+[product-example]: images/MemoryDebug.PNG
