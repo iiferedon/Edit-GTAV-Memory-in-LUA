@@ -51,7 +51,7 @@ Start of a small project where I will be writing a simple LUA script to edit mem
 
 ### Built With
 
-* [Discord.js](https://discord.js.org/#/)
+* [Cherax Lua Engine]([https://discord.js.org/#/](https://docs.cherax.vip/lua-documentation/api-reference))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
