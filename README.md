@@ -2,7 +2,7 @@
 
 <br />
 
-  <h3 align="center">Edit GTAV Memory using LUA</h3>
+  <h1 align="center">Edit GTAV Memory using LUA</h1>
 
   <p align="center">
     iiferedon#1337.
